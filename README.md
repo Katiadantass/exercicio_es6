@@ -47,12 +47,19 @@ npm run build
 Em seguida, teste cada arquivo na ordem correta:
 
 node .\dist\arrays.js
+
 node .\dist\arrow.js
+
 node .\dist\async.js
+
 node .\dist\map_set.js
+
 node .\dist\oo.js
+
 node .\dist\rest_spread.js
+
 node .\dist\students.js
+
 node .\dist\test.js
 
 ## 🙋 Autora
